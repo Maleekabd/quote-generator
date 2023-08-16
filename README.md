@@ -1,4 +1,4 @@
-# React + Vite
+# Quote Generator
 
 this project was developed using react + vite
 
