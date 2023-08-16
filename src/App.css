@@ -1,0 +1,41 @@
+#root {
+    max-width: 1280px;
+    margin: 0 auto;
+    padding: 2rem;
+    text-align: center;
+}
+
+.button {
+    display: block;
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    padding: 20px;
+    text-align: end;
+}
+
+.card {
+    padding: 2em;
+}
+
+.read-the-docs {
+    color: #888;
+}
+
+.parent {
+    position: relative;
+    background-color: aquamarine;
+    max-width: 500px;
+    min-width: 500px;
+    max-height: 250px;
+    min-height: 180px;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+#text,
+#author {
+    font-family: Poppins,Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    text-align: end;
+}
